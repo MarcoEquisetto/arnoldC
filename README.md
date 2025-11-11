@@ -24,4 +24,7 @@
     λ |=~T  !       Y    [|()  λ  ͓'  /
 
 ```     
-Interpreter for arnoldC
+
+## Description
+This repo was the result of a project for the University of Verona, given in as an assignment for the Languages course.
+It contains a test input file and its result, to give an example of the functioning of the interpreter.
