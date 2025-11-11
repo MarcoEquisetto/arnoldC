@@ -28,3 +28,8 @@
 ## Description
 This repo was the result of a project for the University of Verona, given in as an assignment for the Languages course.
 It contains a test input file and its result, to give an example of the functioning of the interpreter.
+
+## What is arnoldC
+arnoldC is a version of the C language which reprocesses the usual directives, like ``while``, ``if`` and ``for`` with iconic one-liners from lots of Arnold Schwarzenegger's movies.
+The way a code written in arnoldC works is similar to C, with less features and more simple definitions of functions.
+If you are interested in knowing more about this language, i suggest looking up some example uses.
